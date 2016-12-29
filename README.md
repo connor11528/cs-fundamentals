@@ -22,12 +22,13 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **Epic List of Interview Questions** - http://katemats.com/interview-questions/ - a list of software engineer skills or areas that can be tested and evaluated in an interview context
 
-- **nzakas/computer-science-in-javascript** - https://github.com/nzakas/computer-science-in-javascript - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
-
-- **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - A complete daily plan for studying to become a Google software engineer.
-
 - **JS: Interview Algorithm** - http://www.thatjsdude.com/interview/js1.html - for Front End Developer
 
+- :octocat: **MaximAbramchuck/awesome-interview-questions** - https://github.com/MaximAbramchuck/awesome-interview-questions - A curated awesome list of lists of interview questions. 
+
+- :octocat: **nzakas/computer-science-in-javascript** - https://github.com/nzakas/computer-science-in-javascript - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
+
+- :octocat: **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - A complete daily plan for studying to become a Google software engineer.
 
 ## Hiring Tools
 
