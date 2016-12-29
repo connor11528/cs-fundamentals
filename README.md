@@ -11,14 +11,23 @@ Here are resources I've collected as a Technical Recruiter and Programmer in reg
 
 - **Codility Solutions** - https://www.martinkysel.com/codility-solutions/ - One engineer's solutions to the codility.com problem sets.
 
+- **LeetCode** - https://leetcode.com/ - Pick from an expanding library of more than 190 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
+
 - **Testdome** - https://www.testdome.com/Tests - Get certified and prove your knowledge
 to potential employers. Score well on one of our public tests, and you will get a free certificate of achievement. 
 
+- **InterviewBit** - https://www.interviewbit.com/ - Practice Coding Interview Questions. Give us time and we get you the job you deserve.
+
+- **CodeEval** - https://www.codeeval.com/ - Find out how you rate against top coders. Unlock awesome startup jobs and hacker deals.
+
 - **Epic List of Interview Questions** - http://katemats.com/interview-questions/ - a list of software engineer skills or areas that can be tested and evaluated in an interview context
+
+- **nzakas/computer-science-in-javascript** - https://github.com/nzakas/computer-science-in-javascript - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
+
+- **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - A complete daily plan for studying to become a Google software engineer.
 
 - **JS: Interview Algorithm** - http://www.thatjsdude.com/interview/js1.html - for Front End Developer
 
-- **CodeEval** - https://www.codeeval.com/ - Find out how you rate against top coders. Unlock awesome startup jobs and hacker deals.
 
 ## Hiring Tools
 
