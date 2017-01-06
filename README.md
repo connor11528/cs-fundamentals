@@ -30,6 +30,10 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - :octocat: **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - A complete daily plan for studying to become a Google software engineer.
 
+## Laravel
+
+- :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam
+
 ## Hiring Tools
 
 - **Coderpad** (paid) - https://coderpad.io/ - CoderPad helps you interview your candidates in an intuitive live programming environment
