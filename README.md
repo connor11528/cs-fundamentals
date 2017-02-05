@@ -1,9 +1,13 @@
 # cracking-the-coding-interview
 Here are resources I've collected as a Technical Recruiter and Programmer in regards to coding interview preparation
 
+- **Hack Reactor Prep** - http://www.hackreactor.com/prep-programs/ - free course and practice problems from Hack Reactor
+
 - **Interview Cake** - https://www.interviewcake.com/ - I will teach you to be good at programming interviews.
 
 - **codewars** - https://www.codewars.com/ - Achieve mastery through challenge. Improve your skills by training with others on real code challenges
+
+- **codefights** - https://codefights.com/ - Test your skills against friends, co-workers and companies.
 
 - **HackerRank** - https://www.hackerrank.com/domains - Practice coding. Compete. Find jobs. Join over 1 million programmers and improve your skills
 
