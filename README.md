@@ -51,3 +51,9 @@ Hire Programmers based on their coding skills. Easy to administer, scientific se
 - Joel On Software, The Guerrilla Guide to Interviewing (version 3.0): https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
 
 - Coding Interview Tips, How to get better at technical interviews without practicing: https://www.interviewcake.com/coding-interview-tips
+
+## Questions
+
+- Traverse the tree of dom nodes. You can assume the badword (node) method is already implemented.
+
+- Parse a JSON to form a HTML content
