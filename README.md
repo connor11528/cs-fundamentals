@@ -1,5 +1,30 @@
 # cracking-the-coding-interview
-Here are resources I've collected as a Technical Recruiter and Programmer in regards to coding interview preparation
+
+## Core Concepts
+
+- Hash tables
+- Linked lists
+- Breadth-first search, depth-first search
+- Quicksort, merge sort
+- Binary search
+- 2D arrays
+- Dynamic arrays
+- Binary search trees
+- Dynamic programming
+- Big-O analysis
+
+## Articles
+
+- Triplebyte blog, How to pass a programming interview: http://blog.triplebyte.com/how-to-pass-a-programming-interview
+
+- Jeff Atwood, How to Hire a Programmer: https://blog.codinghorror.com/how-to-hire-a-programmer/
+
+- Joel On Software, The Guerrilla Guide to Interviewing (version 3.0): https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
+
+- Coding Interview Tips, How to get better at technical interviews without practicing: https://www.interviewcake.com/coding-interview-tips
+
+
+## Study Tools
 
 - **Hack Reactor Prep** - http://www.hackreactor.com/prep-programs/ - free course and practice problems from Hack Reactor
 
@@ -28,29 +53,15 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **JS: Interview Algorithm** - http://www.thatjsdude.com/interview/js1.html - for Front End Developer
 
+## Github Repos
+
 - :octocat: **MaximAbramchuck/awesome-interview-questions** - https://github.com/MaximAbramchuck/awesome-interview-questions - A curated awesome list of lists of interview questions. 
 
 - :octocat: **nzakas/computer-science-in-javascript** - https://github.com/nzakas/computer-science-in-javascript - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
 
 - :octocat: **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - A complete daily plan for studying to become a Google software engineer.
 
-## Laravel
-
 - :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam
-
-## Hiring Tools
-
-- **Coderpad** (paid) - https://coderpad.io/ - CoderPad helps you interview your candidates in an intuitive live programming environment
-
-- **Codeassess** (paid) - https://www.codeassess.com/ - 
-Hire Programmers based on their coding skills. Easy to administer, scientific selection and peace of mind.
-
-## Articles
-- Jeff Atwood, How to Hire a Programmer: https://blog.codinghorror.com/how-to-hire-a-programmer/
-
-- Joel On Software, The Guerrilla Guide to Interviewing (version 3.0): https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
-
-- Coding Interview Tips, How to get better at technical interviews without practicing: https://www.interviewcake.com/coding-interview-tips
 
 ## Questions
 
