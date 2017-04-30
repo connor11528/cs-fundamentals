@@ -26,8 +26,6 @@
 
 ## Study Tools
 
-- **Hack Reactor Prep** - http://www.hackreactor.com/prep-programs/ - free course and practice problems from Hack Reactor
-
 - **Interview Cake** - https://www.interviewcake.com/ - I will teach you to be good at programming interviews.
 
 - **codewars** - https://www.codewars.com/ - Achieve mastery through challenge. Improve your skills by training with others on real code challenges
@@ -52,6 +50,10 @@ to potential employers. Score well on one of our public tests, and you will get 
 - **Epic List of Interview Questions** - http://katemats.com/interview-questions/ - a list of software engineer skills or areas that can be tested and evaluated in an interview context
 
 - **JS: Interview Algorithm** - http://www.thatjsdude.com/interview/js1.html - for Front End Developer
+
+- **Hack Reactor Prep** - http://www.hackreactor.com/prep-programs/ - free course and practice problems from Hack Reactor
+
+- **Outco.io** - https://outco.io/ - 1 month interview prep bootcamp
 
 ## Github Repos
 
