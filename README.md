@@ -70,3 +70,7 @@ to potential employers. Score well on one of our public tests, and you will get 
 - Traverse the tree of dom nodes. You can assume the badword (node) method is already implemented.
 
 - Parse a JSON to form a HTML content
+
+## Solutions
+
+- https://github.com/JacopoDaeli/algorithmic-challenges
