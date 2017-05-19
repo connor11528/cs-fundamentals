@@ -13,6 +13,12 @@
 - Dynamic programming
 - Big-O analysis
 
+## Algorithms
+
+- Khan Academy Algorithm Course: https://www.khanacademy.org/computing/computer-science/algorithms
+- Algosaurus: http://algosaur.us/data-structures-basics/
+- Visualgo: https://visualgo.net/en
+
 ## Articles
 
 - Triplebyte blog, How to pass a programming interview: http://blog.triplebyte.com/how-to-pass-a-programming-interview
@@ -64,6 +70,10 @@ to potential employers. Score well on one of our public tests, and you will get 
 - :octocat: **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - A complete daily plan for studying to become a Google software engineer.
 
 - :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam
+
+## Git
+
+- Git Game: https://www.git-game.com/
 
 ## Questions
 
