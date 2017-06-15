@@ -71,6 +71,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam
 
+- :octocat: **romyilano/Learning-JavaScript-Data-Structures-and-Algorithms** - https://github.com/romyilano/Learning-JavaScript-Data-Structures-and-Algorithms
+
 ## Git
 
 - Git Game: https://www.git-game.com/
