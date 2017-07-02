@@ -42,8 +42,6 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **CodeEval** - https://www.codeeval.com/ - Find out how you rate against top coders. Unlock awesome startup jobs and hacker deals.
 
-- **Hack Reactor Prep** - http://www.hackreactor.com/prep-programs/ - free course and practice problems from Hack Reactor
-
 - **Outco.io** - https://outco.io/ - 1 month interview prep bootcamp
 
 - :octocat: **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - A complete daily plan for studying to become a Google software engineer.
@@ -71,6 +69,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 - :octocat: **JacopoDaeli/algorithmic-challenges** - https://github.com/JacopoDaeli/algorithmic-challenges - Solutions to algorithmic challenges written in C, Python, Java and JavaScript.
 
 - **JS: Interview Algorithm** - http://www.thatjsdude.com/interview/js1.html - for Front End Developer
+
+- **Hack Reactor Prep** - http://www.hackreactor.com/prep-programs/ - free course and practice problems from Hack Reactor
 
 ## Articles
 
