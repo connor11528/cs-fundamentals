@@ -48,7 +48,7 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## Git
 
-- Git Game: https://www.git-game.com/ - The git-game is a terminal based game that teaches both new and advances users some pretty cool features of the git scm (source control management) system.
+- **Git Game** - https://www.git-game.com/ - The git-game is a terminal based game that teaches both new and advances users some pretty cool features of the git scm (source control management) system.
 
 ## PHP
 
