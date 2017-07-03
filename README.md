@@ -62,15 +62,15 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## Javascript
 
-- :octocat: **romyilano/Learning-JavaScript-Data-Structures-and-Algorithms** - https://github.com/romyilano/Learning-JavaScript-Data-Structures-and-Algorithms
+- :octocat: **romyilano/Learning-JavaScript-Data-Structures-and-Algorithms** - https://github.com/romyilano/Learning-JavaScript-Data-Structures-and-Algorithms - Solutions to Learning JavaScript Data Structures and Algorithms by Loiane Groner ([book pdf](https://www.packtpub.com/application-development/learning-javascript-data-structures-and-algorithms))
 
 - :octocat: **nzakas/computer-science-in-javascript** - https://github.com/nzakas/computer-science-in-javascript - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
 
 - :octocat: **JacopoDaeli/algorithmic-challenges** - https://github.com/JacopoDaeli/algorithmic-challenges - Solutions to algorithmic challenges written in C, Python, Java and JavaScript.
 
-- **JS: Interview Algorithm** - http://www.thatjsdude.com/interview/js1.html - for Front End Developer
-
 - **Hack Reactor Prep** - http://www.hackreactor.com/prep-programs/ - free course and practice problems from Hack Reactor
+
+- **JS: Interview Algorithm** - http://www.thatjsdude.com/interview/js1.html - JS: Interview Algorithms questions and solutions
 
 ## Articles
 
