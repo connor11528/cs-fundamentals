@@ -48,7 +48,7 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## Git
 
-- Git Game: https://www.git-game.com/
+- Git Game: https://www.git-game.com/ - The git-game is a terminal based game that teaches both new and advances users some pretty cool features of the git scm (source control management) system.
 
 ## PHP
 
@@ -58,7 +58,7 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **Advanced Eloquent** - https://laracasts.com/series/advanced-eloquent - Sure, you've learned the essentials of using Eloquent in your applications, but do you really understand what's going on under the hood?
 
-- :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam
+- :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam - A Laravel exam with questions from beginner to expert curated by @unicodeveloper
 
 ## Javascript
 
