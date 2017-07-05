@@ -62,6 +62,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## Javascript
 
+- **Rithm School Computer Science Fundamentals with JavaScript** - https://www.rithmschool.com/courses/javascript-computer-science-fundamentals - Covers Algorithms, Data Structures and Computer Science Fundamentals with the Javascript programming language.
+
 - :octocat: **romyilano/Learning-JavaScript-Data-Structures-and-Algorithms** - https://github.com/romyilano/Learning-JavaScript-Data-Structures-and-Algorithms - Solutions to Learning JavaScript Data Structures and Algorithms by Loiane Groner ([book pdf](https://www.packtpub.com/application-development/learning-javascript-data-structures-and-algorithms))
 
 - :octocat: **nzakas/computer-science-in-javascript** - https://github.com/nzakas/computer-science-in-javascript - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
