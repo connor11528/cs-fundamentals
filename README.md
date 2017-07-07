@@ -56,9 +56,11 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## Laravel
 
+- **Diving Laravel** - https://divinglaravel.com/ - A deep dive into laravel core, packages, and technologies by [@themsaid](https://github.com/themsaid)
+
 - **Advanced Eloquent** - https://laracasts.com/series/advanced-eloquent - Sure, you've learned the essentials of using Eloquent in your applications, but do you really understand what's going on under the hood?
 
-- :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam - A Laravel exam with questions from beginner to expert curated by @unicodeveloper
+- :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam - A Laravel exam with questions from beginner to expert curated by [@unicodeveloper](https://github.com/unicodeveloper)
 
 ## Javascript
 
