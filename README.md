@@ -23,7 +23,7 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 ## Data Structures
 
-- **thejameskyle/itsy-bitsy-data-structures** - All the things you didn't know you wanted to know about data structures - https://github.com/thejameskyle/itsy-bitsy-data-structures
+- :octocat: **thejameskyle/itsy-bitsy-data-structures** - All the things you didn't know you wanted to know about data structures - https://github.com/thejameskyle/itsy-bitsy-data-structures
 
 ## Study Tools
 
