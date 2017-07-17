@@ -1,4 +1,6 @@
-# cracking-the-coding-interview
+# Coding Interviews
+
+This is a list of concepts I'd imagine it is important to learn in order to pass coding interviews at big companies and for jobs with really technical teams.
 
 ## Core Concepts
 
@@ -18,6 +20,10 @@
 - Khan Academy Algorithm Course: https://www.khanacademy.org/computing/computer-science/algorithms
 - Algosaurus: http://algosaur.us/data-structures-basics/
 - Visualgo: https://visualgo.net/en
+
+## Data Structures
+
+- **thejameskyle/itsy-bitsy-data-structures** - All the things you didn't know you wanted to know about data structures - https://github.com/thejameskyle/itsy-bitsy-data-structures
 
 ## Study Tools
 
