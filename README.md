@@ -20,6 +20,7 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 - Khan Academy Algorithm Course: https://www.khanacademy.org/computing/computer-science/algorithms
 - Algosaurus: http://algosaur.us/data-structures-basics/
 - Visualgo: https://visualgo.net/en
+- :octocat: **Haseeb-Qureshi/Algorithms-Study-Group** - https://github.com/Haseeb-Qureshi/Algorithms-Study-Group
 
 ## Data Structures
 
