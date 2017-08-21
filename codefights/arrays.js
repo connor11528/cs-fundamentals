@@ -15,7 +15,6 @@
 // firstDuplicate(a) = -1.
 
 
-
 function firstDuplicate(arr) {
 
     // find duplicates
