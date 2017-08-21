@@ -16,3 +16,16 @@ Can display `flex` or `inline-flex`for the `display:` CSS property.
 The reverse flag can be added to these to make right to left (`row-reverse`) or `column-reverse` where main axis goes from bottom to top.
 
 flex-wrap...
+
+`calc()` in CSS can incorporate margins. So `width:33%;margin:10px` will break but `width:calc(33%-20px);margin:10px;` will take care of the 10px on each side and show 3 boxes.
+
+`border` and `padding` is part of the box model. `margin` is not part of the box model.
+
+Add vendor prefixes to our code to make sure that all browsers accept our code.
+
+- Online tool: https://autoprefixer.github.io/
+
+- autoprefixer github: https://github.com/postcss/autoprefixer
+
+- for webpack: https://github.com/postcss/postcss-loader
+
