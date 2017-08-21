@@ -41,4 +41,14 @@ var flattened = [[0, 1], [2, 3], [4, 5]].reduce(function(a, b, i) {
 ```
 
 // filter
+
+// ES6 Set 
+
+// lastIndexOf
+
+// split
+
+// charCodeAt
+
+// ... operator
 ```

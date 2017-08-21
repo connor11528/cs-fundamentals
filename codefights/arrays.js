@@ -60,3 +60,50 @@ function firstDuplicate(arr) {
     
     return arr[minimal];
 }
+
+
+
+// Given a string s, find and return the first instance of a non-repeating character in it. 
+// If there is no such character, return '_'.
+
+// Example
+
+// For s = "abacabad", the output should be
+// firstNotRepeatingCharacter(s) = 'c'.
+
+// There are 2 non-repeating characters in the string: 'c' and 'd'. 
+// Return c since it appears in the string first.
+
+
+function firstNotRepeatingCharacter(str) {
+    var repeats = [];
+    for(var i = 0; i < str.length; i++){
+        repeats.push({ letter: str[i], count: 1 });
+    }
+    
+    var counts = repeats.reduce(function(a, b){
+        
+        if(a[b.letter])
+            a[b.letter] += b.count;
+        else
+            a[b.letter] = 1;
+        return a;
+    }, {});
+    
+    var nonrepeats = [];
+    for (var k in counts){
+        if(counts[k] === 1)
+            nonrepeats.push(k)
+    }
+    
+    if (nonrepeats.length === 0)
+        return '_';
+    
+    var firstNonRepeater = str.length;
+    nonrepeats.forEach(function(n){
+        if(str.indexOf(n) < firstNonRepeater)
+            firstNonRepeater = n;
+    });
+    return firstNonRepeater;
+}
+
