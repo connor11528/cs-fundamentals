@@ -107,3 +107,54 @@ function firstNotRepeatingCharacter(str) {
     return firstNonRepeater;
 }
 
+// You are given an n x n 2D matrix that represents an image. Rotate the image 
+// by 90 degrees (clockwise).
+
+// Example
+
+// For
+
+// a = [[1, 2, 3],
+//      [4, 5, 6],
+//      [7, 8, 9]]
+// the output should be
+
+// rotateImage(a) =
+//     [[7, 4, 1],
+//      [8, 5, 2],
+//      [9, 6, 3]]
+
+
+function rotateImage(img) {
+    var output = [];
+    var max = img[0].length;
+    for(var i = 0; i < max; i++){
+        output.push([...Array(max)]);
+    }
+    
+    for(var i = 0; i < max; i++){
+        var row = img[i];
+        
+        for(var j = 0; j < max; j++){
+            output[j][i] = img[i][j]
+        }
+    }
+    
+    return output.map(function(row){
+        return row.reverse();
+    });
+    
+    // 0,0 -> 0,2
+    // 0,1 -> 1,2
+    // 0,2 -> 2,2
+    // 
+    // 1,0 -> 0,1
+    // 1,1 -> 1,1
+    // 1,2 -> 2,1
+    // 
+    // 2,0 -> 0,0
+    // 2,1 -> 1,0
+    // 2,2 -> 2,0
+}
+
+
