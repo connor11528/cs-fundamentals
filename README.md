@@ -30,7 +30,7 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 - **Interview Cake** - https://www.interviewcake.com/ - I will teach you to be good at programming interviews.
 
-- **codewars** - https://www.codewars.com/ - Achieve mastery through challenge. Improve your skills by training with others on real code challenges
+- **InterviewBit** - https://www.interviewbit.com/ - Practice Coding Interview Questions. Give us time and we get you the job you deserve.
 
 - **codefights** - https://codefights.com/ - Test your skills against friends, co-workers and companies.
 
@@ -40,12 +40,12 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 - **Codility Solutions** - https://www.martinkysel.com/codility-solutions/ - One engineer's solutions to the codility.com problem sets.
 
+- **codewars** - https://www.codewars.com/ - Achieve mastery through challenge. Improve your skills by training with others on real code challenges
+
 - **LeetCode** - https://leetcode.com/ - Pick from an expanding library of more than 190 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
 
 - **Testdome** - https://www.testdome.com/Tests - Get certified and prove your knowledge
 to potential employers. Score well on one of our public tests, and you will get a free certificate of achievement. 
-
-- **InterviewBit** - https://www.interviewbit.com/ - Practice Coding Interview Questions. Give us time and we get you the job you deserve.
 
 - **CodeEval** - https://www.codeeval.com/ - Find out how you rate against top coders. Unlock awesome startup jobs and hacker deals.
 
@@ -102,3 +102,7 @@ to potential employers. Score well on one of our public tests, and you will get 
 - Traverse the tree of dom nodes. You can assume the badword (node) method is already implemented.
 
 - Parse a JSON to form a HTML content
+
+## Books
+
+- Cracking the Coding Interview ([pdf](https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf), [pdf alt](https://github.com/navyifanr/Cracking_the_coding_interview/blob/master/Cracking%20the%20coding%20interview-ctci.pdf))
