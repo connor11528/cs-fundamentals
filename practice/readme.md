@@ -38,17 +38,38 @@ var flattened = [[0, 1], [2, 3], [4, 5]].reduce(function(a, b, i) {
   return a.concat(b);
 }, []);
 // flattened is [0, 1, 2, 3, 4, 5]
-```
+
+
+// Includes
+var myArray = [1, 2, 3, 4, 5];
+myArray.includes(1) // true
+
 
 // filter
-
-// ES6 Set 
 
 // lastIndexOf
 
 // split
 
+// slice(begin, end)
+
 // charCodeAt
 
 // ... operator
+
+// some()
+
+// every()
 ```
+
+
+// sum all elements in an array
+
+JS Number Methods
+===
+
+Number.isInteger(x)
+
+
+JS Set 
+===
