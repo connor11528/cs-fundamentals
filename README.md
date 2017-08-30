@@ -28,6 +28,8 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 ## Study Tools
 
+- **Project Euler** - https://projecteuler.net/archives - The classic
+
 - **Interview Cake** - https://www.interviewcake.com/ - I will teach you to be good at programming interviews.
 
 - **InterviewBit** - https://www.interviewbit.com/ - Practice Coding Interview Questions. Give us time and we get you the job you deserve.
