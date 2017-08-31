@@ -237,3 +237,50 @@ function tickets(peopleInLine){
   return 'YES';  
 }
 
+
+// Implement the function unique_in_order which takes as argument a 
+// sequence and returns a list of items without any elements with the same value 
+// next to each other and preserving the original order of elements
+
+var uniqueInOrder=function(iterable){
+  let output = [];
+  for(var i = 0; i < iterable.length; i++){
+    if(iterable[i] !== iterable[i-1]){
+      output.push(iterable[i]);
+    }
+  }
+  return output;
+}
+
+
+//Given two arrays a and b write a function comp(a, b) that checks whether the two arrays have the 
+// "same" elements, with the same multiplicities. "Same" means, here, that the elements in b are 
+// the elements in a squared, regardless of the order.
+
+function comp(array1, array2){
+  try {
+    array1.sort((a,b) => a-b); array2.sort((a,b) => a-b);
+  } catch(e) { return false; }
+  
+  for(var i = 0; i < array1.length; i++){
+    if((array1[i] * array1[i]) !== array2[i]){
+      return false;
+    }
+  }
+  return true;
+}
+
+
+// accum("abcd");    // "A-Bb-Ccc-Dddd"
+// accum("RqaEzty"); // "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+// accum("cwAt");    // "C-Ww-Aaa-Tttt"
+function accum(s) {
+  let output = [], i = 0;
+  
+  for(letter of s){
+    output.push(letter.toUpperCase() + letter.toLowerCase().repeat(i));
+    i++;
+  }
+  return output.join('-');
+}
+

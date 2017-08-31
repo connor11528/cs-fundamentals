@@ -60,6 +60,19 @@ myArray.includes(1) // true
 // some()
 
 // every()
+
+// toString()
+
+// join()
+
+// pop()
+
+// slice(begin, end) - does not modify original array
+
+// splice(start, deleteCount) - modifies original array
+
+// sort() - sort happens in place, no array copy made. will not sort numbers. You must run arr.sort(function(a, b){ return a-b; }) OR arr.sort((a,b)=> a-b)
+
 ```
 
 
@@ -73,3 +86,17 @@ Number.isInteger(x)
 
 JS Set 
 ===
+
+JS String Methods 
+===
+
+// charAt
+
+// toUpperCase
+
+// repeat
+
+// substr
+
+// substring
+
