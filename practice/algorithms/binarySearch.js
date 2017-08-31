@@ -1,25 +1,54 @@
-var primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
+var primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 
+		41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
+var result = doSearch(primes, 73);
+console.log("Found prime at index " + result);
 
-// we want to know if 67 is prime, if it is in the array then it is prime
 
-function isInPrimes(num, arr){
-	var min = 0, max = arr.length - 1;
-	var guess = parseInt((min+max)/2);
+/****** Iterative Solution *******/
 
-	// number not in array
-	if(arr.length == 1 && arr[guess] != num) return false;
+/* Returns either the index of the location in the array,
+  or -1 if the array did not contain the targetValue */
+function doSearch(array, targetValue) {
+    var min = 0;
+    var max = array.length - 1;
+    var guess;
+    
+    while(max >= min){
+        guess = Math.floor((min+max)/2);
 
-	if(arr[guess] == num){
-		// if number is in array return true
-		return true;
-	} else if(arr[guess] > num){
-		var newArr = arr.slice(min, guess); // create new array from begin to end (end not included)
-		return isInPrimes(num, newArr); // recursive call to self in order to return a value
-	} else if (arr[guess] < num){
-		var newArr = arr.slice(guess + 1, max + 1);
-		return isInPrimes(num, newArr);
-	}
+        if(array[guess] === targetValue){ 
+            return guess;
+        } else if(array[guess] < targetValue){
+            min = guess + 1;
+        } else { 
+            max = guess - 1;
+        }
+    }
+    return -1;
+};
 
-}
+/****** Recursive Solution (does not find index) *******/
 
-console.log(isInPrimes(40, primes));
+/* Returns either the index of the location in the array,
+  or -1 if the array did not contain the targetValue */
+function doSearchRecursive(array, targetValue) {
+	var min = 0;
+	var max = array.length - 1;
+    var guess = parseInt((min + max)/2, 10);
+    
+    if(array[guess] === targetValue){
+        return true;
+    }
+    
+    if(array[guess] > targetValue){
+        var newArr =  array.slice(min, guess + 1);
+        return doSearchRecursive(newArr, targetValue);
+    } else if (array[guess] < targetValue){
+        var newArr = array.slice(guess + 1, max);
+        return doSearchRecursive(newArr, targetValue);
+    }
+
+	return -1;
+};
+
+
