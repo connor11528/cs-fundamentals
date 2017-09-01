@@ -44,18 +44,11 @@ var flattened = [[0, 1], [2, 3], [4, 5]].reduce(function(a, b, i) {
 var myArray = [1, 2, 3, 4, 5];
 myArray.includes(1) // true
 
-
 // filter
 
 // lastIndexOf
 
-// split
-
 // slice(begin, end)
-
-// charCodeAt
-
-// ... operator
 
 // some()
 
@@ -99,4 +92,8 @@ JS String Methods
 // substr
 
 // substring
+
+// split
+
+// charCodeAt
 

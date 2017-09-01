@@ -50,6 +50,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## Javascript
 
+- :octocat: **benoitvallon/computer-science-in-javascript** - https://github.com/benoitvallon/computer-science-in-javascript - Computer science reimplemented in JavaScript
+
 - **Khan Academy Algorithm Course** - https://www.khanacademy.org/computing/computer-science/algorithms
 
 - **Rithm School Computer Science Fundamentals with JavaScript** - https://www.rithmschool.com/courses/javascript-computer-science-fundamentals - Covers Algorithms, Data Structures and Computer Science Fundamentals with the Javascript programming language.
