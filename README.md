@@ -2,22 +2,45 @@
 
 This is a list of concepts I'd imagine it is important to learn in order to pass coding interviews at big companies and for jobs with really technical teams.
 
-## Core Concepts
-
-- Hash tables
-- Linked lists
-- Breadth-first search, depth-first search
-- Quicksort, merge sort
-- Binary search
-- 2D arrays
-- Dynamic arrays
-- Binary search trees
-- Dynamic programming
-- Big-O analysis
-
 ## Data Structures
 
+- Array
+
+- Hash Table 
+
+- Linked List 
+
+- Tree / Binary Tree
+
+- Graph
+
+- Stack
+
+- Queue
+
 - :octocat: **thejameskyle/itsy-bitsy-data-structures** - All the things you didn't know you wanted to know about data structures - https://github.com/thejameskyle/itsy-bitsy-data-structures
+
+## Searching and Sorting
+
+- Binary Search 
+
+- Breadth First Search (BFS)
+
+- Depth First Search (DFS)
+
+- Counting Sort
+
+- Quicksort
+
+- Merge Sort
+
+## Concepts
+
+- Greedy Algorithm 
+
+- Big-O Analysis
+
+- Dynamic Programming
 
 ## Services
 
@@ -49,6 +72,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 - **Outco.io** - https://outco.io/ - 1 month interview prep bootcamp
 
 ## Javascript
+
+- :octocat: **amilajack/js-algorithms** - https://github.com/amilajack/js-algorithms - A collection of algorithms written in javascript
 
 - :octocat: **benoitvallon/computer-science-in-javascript** - https://github.com/benoitvallon/computer-science-in-javascript - Computer science reimplemented in JavaScript
 
@@ -95,6 +120,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 - **Learning JavaScript Data Structures and Algorithms** - https://github.com/loiane/javascript-datastructures-algorithms
 
 - **Cracking the Coding Interview** ([pdf](https://inspirit.net.in/books/placements/Cracking%20the%20Coding%20Interview.pdf), [pdf alt](https://github.com/navyifanr/Cracking_the_coding_interview/blob/master/Cracking%20the%20coding%20interview-ctci.pdf))
+
+- :octocat: **amilajack/reading** - list of computer science readings with book pdfs - https://github.com/amilajack/reading - Reading List: 
 
 ## Visualization
 
