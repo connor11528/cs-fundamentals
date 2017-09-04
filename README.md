@@ -107,6 +107,10 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **Git Game** - https://www.git-game.com/ - The git-game is a terminal based game that teaches both new and advances users some pretty cool features of the git scm (source control management) system.
 
+## Webpack
+
+- **webpack: The Core Concepts** - https://webpack.academy/p/the-core-concepts - less than an hour long course on webpack fundamentals from core team member
+
 ## Python
 
 - Algosaurus: http://algosaur.us/data-structures-basics/
