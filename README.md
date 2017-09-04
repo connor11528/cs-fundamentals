@@ -143,6 +143,10 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## Articles
 
+- Resource List: Getting hired at technology startups: https://notes.breakoutlist.com/resource-list-getting-hired-at-technology-startups-9f981518a0d9
+
+- Resource List: Figuring out what you want / your “purpose”: https://notes.breakoutlist.com/resource-list-figuring-out-what-you-want-your-purpose-b7af89e2ba7
+
 - Triplebyte blog, How to pass a programming interview: http://blog.triplebyte.com/how-to-pass-a-programming-interview
 
 - Jeff Atwood, How to Hire a Programmer: https://blog.codinghorror.com/how-to-hire-a-programmer/
@@ -150,3 +154,14 @@ to potential employers. Score well on one of our public tests, and you will get 
 - Joel On Software, The Guerrilla Guide to Interviewing (version 3.0): https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
 
 - Coding Interview Tips, How to get better at technical interviews without practicing: https://www.interviewcake.com/coding-interview-tips
+
+- Best engineer resume template: https://notes.breakoutlist.com/best-engineer-resume-template-uses-latex-14380b4a239f
+
+- Guide to interviewing your future manager before deciding where to work: https://notes.breakoutlist.com/guide-to-interviewing-your-future-manager-before-deciding-where-to-work-3b2eb3326793
+
+What type of company/opportunity is right for you?
+use charlie munger’s rules (warren buffett’s partner)
+
+ 1) Don’t sell anything you wouldn’t buy yourself
+ 2) Don’t work for anyone you don’t respect and admire
+ 3) Work only with people you enjoy
