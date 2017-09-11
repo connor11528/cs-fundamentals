@@ -42,6 +42,8 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 - Dynamic Programming
 
+- :octocat: **mr-mig/every-programmer-should-know** - https://github.com/mr-mig/every-programmer-should-know - A collection of (mostly) technical things every software developer should know
+
 ## Services
 
 - **HackerRank** - https://www.hackerrank.com/domains - Practice coding. Compete. Find jobs. Join over 1 million programmers and improve your skills
