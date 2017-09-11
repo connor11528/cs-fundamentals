@@ -72,3 +72,169 @@ function all(array, callback){
 }
 
 
+// Write a function called productOfArray which takes in an array of numbers 
+// and returns the product of them all
+
+var six = productOfArray([1,2,3]) // 6
+var sixty = productOfArray([1,2,3,10]) // 60
+
+// console.log(six, sixty);
+
+function productOfArray(array){
+	if(array.length === 0) return 1;
+
+	return array.shift() * productOfArray(array);
+}
+
+
+// Write a function called `contains` that searches for a value in a nested object. 
+// It returns true if the object contains that value.
+
+var nestedObject = {
+    data: {
+        info: {
+            stuff: {
+                thing: {
+                    moreStuff: {
+                        magicNumber: 44,
+                        something: 'foo2'
+                    }
+                }
+            }
+        }
+    }
+}
+
+let hasIt = contains(nestedObject, 44); // true
+let doesntHaveIt = contains(nestedObject, "foo"); // false
+
+// console.log(hasIt, doesntHaveIt);
+
+function contains(obj, value){
+	for(var key in obj){
+		if(typeof obj[key] === 'object'){
+			return contains(obj[key], value);
+		}
+
+		if (obj[key] === value){
+			return true;
+		}
+	}
+	return false;
+}
+
+
+// Given a multi-dimensional integer array, return the total number of integers 
+// stored inside this array
+
+var seven = totalIntegers([[[5], 3], 0, 2, ['foo'], [], [4, [5, 6]]]); // 7
+// console.log(seven);
+
+function totalIntegers(array){
+	if(array.length === 0) return 0;
+
+	let total = 0;
+	let first = array.shift();
+
+	if (Array.isArray(first)){
+		total += totalIntegers(first); 
+	} else if (Number.isInteger(first)) {
+		total += 1;
+	}
+
+	return total + totalIntegers(array);
+}
+
+
+// Write a function that sums squares of numbers in list that may contain more lists
+
+var l = [1,2,3]; 
+// console.log(SumSquares(l)); // 14
+
+l = [[1,2],3]; 
+// console.log(SumSquares(l)); // 14
+
+l = [[[[[[[[[1]]]]]]]]] 
+// console.log(SumSquares(l)); // 1
+
+l = [10,[[10],10],[10]] 
+// console.log(SumSquares(l)); // 400
+
+function SumSquares(array){
+	if(array.length === 0) return 0;
+	let total = 0;
+
+	for(let i = 0; i < array.length; i++){
+		if(Array.isArray(array[i])){
+			total += SumSquares(array[i]);
+		} else {
+			total += array[i] * array[i];
+		}
+		
+	}
+	return total;
+}
+
+
+// The function should return an array containing repetitions of the number argument. 
+// For instance, replicate(3, 5) should return [5,5,5]. 
+// If the times argument is negative, return an empty array.
+
+// console.log(replicate(3, 5)) // [5, 5, 5]
+// console.log(replicate(1, 69)) // [69]
+// console.log(replicate(-2, 6)) // []
+
+function replicate(times, number){
+	if(times <= 0) return [];
+
+	return [number].concat(replicate(times - 1, number));
+}
+
+
+// BONUS
+//=======
+
+// Write a function called search that finds a value in an array and returns the index 
+// where the value is at. If the value is not found, the function should return negative 1.
+
+search([1,2,3,4,5],5) // 4
+search([1,2,3,4,5],15) // -1
+
+
+// Refactor your search function to use a faster algorithm called binary search 
+// https://www.youtube.com/watch?v=JQhciTuD3E8
+
+binarySearch([1,2,3,4,5],5) // 4
+binarySearch([1,2,3,4,5],15) // -1
+
+
+// Write a function called stringifyNumbers which takes in an object and finds all of the 
+// values which are numbers and converts them to strings. 
+
+var obj = {
+    num: 1,
+    test: [],
+    data: {
+        val: 4,
+        info: {
+            isRight: true,
+            random: 66
+        }
+    }
+}
+
+stringifyNumbers(obj)
+/*/
+Output: 
+{
+    num: "1",
+    test: [],
+    data: {
+        val: "4",
+        info: {
+            isRight: true,
+            random: "66"
+        }
+    }
+}
+/*/
