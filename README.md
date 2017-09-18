@@ -36,6 +36,8 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 ## Concepts
 
+- Recursion: [connor11528 tech.io article](https://tech.io/playgrounds/5422/js-interview-prep-recursion)
+
 - Greedy Algorithm 
 
 - Big-O Analysis
@@ -45,6 +47,8 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 - :octocat: **mr-mig/every-programmer-should-know** - https://github.com/mr-mig/every-programmer-should-know - A collection of (mostly) technical things every software developer should know
 
 ## Services
+
+- **Coderbyte** - https://coderbyte.com/challenges/?a=true - Lots of programming challenges, access 10 for free otherwise $30 per month
 
 - **HackerRank** - https://www.hackerrank.com/domains - Practice coding. Compete. Find jobs. Join over 1 million programmers and improve your skills
 

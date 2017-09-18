@@ -56,7 +56,7 @@ var allAreLessThanSeven = all([1,2,9], function(num){
 	return num < 7;
 });
 
-// console.log(allAreLessThanSeven);
+console.log(allAreLessThanSeven);
 
 function all(array, callback){
 	var copy = copy || array.slice(); // shallow copies array
@@ -197,15 +197,15 @@ function replicate(times, number){
 // Write a function called search that finds a value in an array and returns the index 
 // where the value is at. If the value is not found, the function should return negative 1.
 
-search([1,2,3,4,5],5) // 4
-search([1,2,3,4,5],15) // -1
+// search([1,2,3,4,5],5) // 4
+// search([1,2,3,4,5],15) // -1
 
 
 // Refactor your search function to use a faster algorithm called binary search 
 // https://www.youtube.com/watch?v=JQhciTuD3E8
 
-binarySearch([1,2,3,4,5],5) // 4
-binarySearch([1,2,3,4,5],15) // -1
+// binarySearch([1,2,3,4,5],5) // 4
+// binarySearch([1,2,3,4,5],15) // -1
 
 
 // Write a function called stringifyNumbers which takes in an object and finds all of the 
@@ -223,7 +223,7 @@ var obj = {
     }
 }
 
-stringifyNumbers(obj)
+// stringifyNumbers(obj)
 /*/
 Output: 
 {
