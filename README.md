@@ -36,13 +36,13 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 ## Concepts
 
-- Recursion: [connor11528 tech.io article](https://tech.io/playgrounds/5422/js-interview-prep-recursion)
+- Recursion: [JS interview prep: Recursion](https://tech.io/playgrounds/5422/js-interview-prep-recursion) (has runnable code examples)
+
+- Dynamic Programming
 
 - Greedy Algorithm 
 
 - Big-O Analysis
-
-- Dynamic Programming
 
 - :octocat: **mr-mig/every-programmer-should-know** - https://github.com/mr-mig/every-programmer-should-know - A collection of (mostly) technical things every software developer should know
 
