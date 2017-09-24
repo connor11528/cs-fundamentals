@@ -48,6 +48,8 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 ## Services
 
+- [**Pramp** - Free technical interview practice platform for talented engineers](https://www.pramp.com/ref/gt7)
+
 - **Coderbyte** - https://coderbyte.com/challenges/?a=true - Lots of programming challenges, access 10 for free otherwise $30 per month
 
 - **HackerRank** - https://www.hackerrank.com/domains - Practice coding. Compete. Find jobs. Join over 1 million programmers and improve your skills
@@ -148,6 +150,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 - Parse a JSON to form a HTML content
 
 ## Articles
+
+- Top 8 Mistakes to avoid in Technical Interviews According to Data: https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f
 
 - Resource List: Getting hired at technology startups: https://notes.breakoutlist.com/resource-list-getting-hired-at-technology-startups-9f981518a0d9
 
