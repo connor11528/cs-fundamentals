@@ -44,7 +44,11 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 - Big-O Analysis
 
-- :octocat: **mr-mig/every-programmer-should-know** - https://github.com/mr-mig/every-programmer-should-know - A collection of (mostly) technical things every software developer should know
+## Learning Guides
+
+- **yangshun/tech-interview-handbook** - 4k+ ⭐ repo with helpful non-technical tips. Additionally has section covering Algorithm, Front End and System Design questions
+
+- :octocat: **mr-mig/every-programmer-should-know** - https://github.com/mr-mig/every-programmer-should-know - Don't let the title scare you. This repo covers at a high level things ranging from *Career Tips* to *Data Structures*, *Security*, *Architecture* and *Algorithms*. It's a lot but can be helpful to overview concepts
 
 ## Services
 
