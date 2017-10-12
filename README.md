@@ -99,6 +99,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - :octocat: **benoitvallon/computer-science-in-javascript** - https://github.com/benoitvallon/computer-science-in-javascript - Computer science reimplemented in JavaScript
 
+- :octocat: **lukehoban/es6features** - https://github.com/lukehoban/es6features - Overview of ECMAScript 6 features (21k+ stars)
+
 - **Khan Academy Algorithm Course** - https://www.khanacademy.org/computing/computer-science/algorithms
 
 - :octocat: **romyilano/Learning-JavaScript-Data-Structures-and-Algorithms** - https://github.com/romyilano/Learning-JavaScript-Data-Structures-and-Algorithms - Solutions to Learning JavaScript Data Structures and Algorithms by Loiane Groner ([book pdf](https://www.packtpub.com/application-development/learning-javascript-data-structures-and-algorithms))
