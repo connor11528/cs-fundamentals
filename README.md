@@ -157,7 +157,7 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - :octocat: **amilajack/reading** - list of computer science readings with book pdfs - https://github.com/amilajack/reading - Reading List: 
 
-## Visualization
+## Algorithm visualization
 
 - Visualgo: https://visualgo.net/en
 
@@ -193,18 +193,15 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 This is tangentially related to interviews. Below is a list of companies that feature blog posts from guest authors. Blogging and teaching others can be a powerful way to comprehend new material, fine tune your writing skills, gain exposure and potentially even make money! If you have a technical blog open to new contributors please [submit a PR](https://github.com/connor11528/coding-interviews/pulls)
 
-- Scotch.io ([write-for-us](https://scotch.io/write-for-us)) - this has been my go to source for web development tutorials for years. Code on the rocks
+- [Scotch.io](https://scotch.io/write-for-us) - this has been my go to source for web development tutorials for years. Code on the rocks
 
-- Snipcart ([company blog](https://snipcart.com/guest-posting)) - company interested in Vue.js, eCommerce, Javascript and the JAMstack. There is some really great writing and code samples on here
+- [Snipcart](https://snipcart.com/guest-posting) - company interested in Vue.js, eCommerce, Javascript and the JAMstack. There is some really great writing and code samples on here
 
-- JScrambler ([blog](https://blog.jscrambler.com/)) - company interested in Javascript tutorials. I wrote a post for them on using Vue.js and Vuelog to make a static blogging app. Check out the full article [here](https://blog.jscrambler.com/generate-a-static-markdown-blog-using-vuelog/)
-
+- [JScrambler](https://blog.jscrambler.com/) - company interested in Javascript tutorials. I wrote a post for them on using Vue.js and Vuelog to make a static blogging app. Check out the full article [here](https://blog.jscrambler.com/generate-a-static-markdown-blog-using-vuelog/)
 
 ## Words of wisdom
 
 1) Don’t sell anything you wouldn’t buy yourself
 2) Don’t work for anyone you don’t respect and admire
 3) Work only with people you enjoy
-
-
  
