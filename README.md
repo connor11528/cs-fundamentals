@@ -78,6 +78,7 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 - **Interview Cake** - https://www.interviewcake.com/ - Interview Cake is a thoroughly documented site on programming interviews and concepts. It can be expensive for the year membership but if you're serious about buckling down to learn the fundamentals can be worth it. They also offer a money-back gaurantee.
 
+- **interviewing.io** - https://interviewing.io/ - Anonymously practice coding interviews with engineers from prominent tech companies. Developed by Aline Lerner, an MIT grad and software engineer turned recruiter
 
 - **LeetCode** - https://leetcode.com/ - Pick from an expanding library of more than 190 questions, code and submit your solution to see if you have solved it correctly.
 
@@ -167,10 +168,6 @@ to potential employers. Score well on one of our public tests, and you will get 
 - **Epic List of Interview Questions** - http://katemats.com/interview-questions/ - a list of software engineer skills or areas that can be tested and evaluated in an interview context
 
 - :octocat: **MaximAbramchuck/awesome-interview-questions** - https://github.com/MaximAbramchuck/awesome-interview-questions - A curated awesome list of lists of interview questions. 
-
-- Traverse the tree of dom nodes. You can assume the badword (node) method is already implemented.
-
-- Parse a JSON to form a HTML content
 
 ## Articles
 
