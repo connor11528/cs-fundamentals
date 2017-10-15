@@ -48,6 +48,8 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 - **Rithm School Computer Science Fundamentals with JavaScript** - https://www.rithmschool.com/courses/javascript-computer-science-fundamentals - I've been following along with some of this as I don't have a comp sci degree. They explain the concepts and then point you to additional resources for learning the material (like youtub videos and specific codewars problems) Very helpful.
 
+- **Coderbyte** - https://coderbyte.com/challenges/?a=true - Lots of programming challenges, access 10 for free otherwise $30 per month
+
 - :octocat: **yangshun/tech-interview-handbook** - 4k+ ⭐ repo with helpful non-technical tips. Additionally has section covering Algorithm, Front End and System Design questions
 
 - :octocat: **mr-mig/every-programmer-should-know** - https://github.com/mr-mig/every-programmer-should-know - Don't let the title scare you. This repo covers at a high level things ranging from *Career Tips* to *Data Structures*, *Security*, *Architecture* and *Algorithms*. It's a lot but can be helpful to overview concepts and find new things to learn
@@ -72,7 +74,10 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 - **codefights** - https://codefights.com/ - Really great user interface and user experience. I like the gamification and points system they have going on.
 
+- **Pramp** - https://www.pramp.com/ref/gt7 - Real practice with *actual* engineers. Book a time and practice interviewing with real human beings
+
 - **Interview Cake** - https://www.interviewcake.com/ - Interview Cake is a thoroughly documented site on programming interviews and concepts. It can be expensive for the year membership but if you're serious about buckling down to learn the fundamentals can be worth it. They also offer a money-back gaurantee.
+
 
 - **LeetCode** - https://leetcode.com/ - Pick from an expanding library of more than 190 questions, code and submit your solution to see if you have solved it correctly.
 
@@ -168,6 +173,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 - Parse a JSON to form a HTML content
 
 ## Articles
+
+- Top 8 Mistakes to avoid in Technical Interviews According to Data: https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f
 
 - Resource List: Getting hired at technology startups: https://notes.breakoutlist.com/resource-list-getting-hired-at-technology-startups-9f981518a0d9
 
