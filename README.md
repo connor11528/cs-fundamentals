@@ -161,14 +161,6 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - Visualgo: https://visualgo.net/en
 
-## More Questions
-
-- **Project Euler** - https://projecteuler.net/archives - The classic
-
-- **Epic List of Interview Questions** - http://katemats.com/interview-questions/ - a list of software engineer skills or areas that can be tested and evaluated in an interview context
-
-- :octocat: **MaximAbramchuck/awesome-interview-questions** - https://github.com/MaximAbramchuck/awesome-interview-questions - A curated awesome list of lists of interview questions. 
-
 ## Articles
 
 - Top 8 Mistakes to avoid in Technical Interviews According to Data: https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f
@@ -185,13 +177,34 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - Coding Interview Tips, How to get better at technical interviews without practicing: https://www.interviewcake.com/coding-interview-tips
 
-- Best engineer resume template: https://notes.breakoutlist.com/best-engineer-resume-template-uses-latex-14380b4a239f
+- software engineer resume template: https://notes.breakoutlist.com/best-engineer-resume-template-uses-latex-14380b4a239f
 
 - Guide to interviewing your future manager before deciding where to work: https://notes.breakoutlist.com/guide-to-interviewing-your-future-manager-before-deciding-where-to-work-3b2eb3326793
 
-What type of company/opportunity is right for you?
-use charlie munger’s rules (warren buffett’s partner)
+## More Questions
 
- 1) Don’t sell anything you wouldn’t buy yourself
- 2) Don’t work for anyone you don’t respect and admire
- 3) Work only with people you enjoy
+- **Project Euler** - https://projecteuler.net/archives - The classic
+
+- **Epic List of Interview Questions** - http://katemats.com/interview-questions/ - a list of software engineer skills or areas that can be tested and evaluated in an interview context
+
+- :octocat: **MaximAbramchuck/awesome-interview-questions** - https://github.com/MaximAbramchuck/awesome-interview-questions - A curated awesome list of lists of interview questions. 
+ 
+## Technical blogs
+
+This is tangentially related to interviews. Below is a list of companies that feature blog posts from guest authors. Blogging and teaching others can be a powerful way to comprehend new material, fine tune your writing skills, gain exposure and potentially even make money! If you have a technical blog open to new contributors please [submit a PR](https://github.com/connor11528/coding-interviews/pulls)
+
+- Scotch.io ([write-for-us](https://scotch.io/write-for-us)) - this has been my go to source for web development tutorials for years. Code on the rocks
+
+- Snipcart ([company blog](https://snipcart.com/guest-posting)) - company interested in Vue.js, eCommerce, Javascript and the JAMstack. There is some really great writing and code samples on here
+
+- JScrambler ([blog](https://blog.jscrambler.com/)) - company interested in Javascript tutorials. I wrote a post for them on using Vue.js and Vuelog to make a static blogging app. Check out the full article [here](https://blog.jscrambler.com/generate-a-static-markdown-blog-using-vuelog/)
+
+
+## Words of wisdom
+
+1) Don’t sell anything you wouldn’t buy yourself
+2) Don’t work for anyone you don’t respect and admire
+3) Work only with people you enjoy
+
+
+ 
