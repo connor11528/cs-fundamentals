@@ -201,6 +201,8 @@ This is tangentially related to interviews. Below is a list of companies that fe
 
 ## Words of wisdom
 
+[Charlie Munger](https://www.cnbc.com/2017/08/16/warren-buffetts-partner-charlie-munger-has-3-rules-for-a-career.html), Warren Buffett’s partner, has three rules for a career:
+
 1) Don’t sell anything you wouldn’t buy yourself
 2) Don’t work for anyone you don’t respect and admire
 3) Work only with people you enjoy
