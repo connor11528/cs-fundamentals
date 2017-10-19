@@ -344,3 +344,25 @@ function findMissingLetter(array){
   }
 }
 
+
+// Sort a sorted array by their squares
+// [1,2,3] => [1, 4, 9]
+// [-10, -1, 0, 1, 2] => [0, 1, 1, 4, 100]
+
+function sortNums(arr){
+  var start = 0, end = arr.length - 1, output = [];
+  
+  while (start <= end) {
+   if (Math.abs(arr[start]) > Math.abs(arr[end]))
+   { 
+     output.unshift(Math.pow(arr[start], 2))
+     start++;
+   } else {
+     output.unshift(Math.pow(arr[end], 2))
+     end--;
+   }
+  }
+
+  return output;
+}
+

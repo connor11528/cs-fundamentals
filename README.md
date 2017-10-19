@@ -189,7 +189,7 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - :octocat: **MaximAbramchuck/awesome-interview-questions** - https://github.com/MaximAbramchuck/awesome-interview-questions - A curated awesome list of lists of interview questions. 
  
-## Technical blogs
+## Technical blogs 💸
 
 This is tangentially related to interviews. Below is a list of companies that feature blog posts from guest authors. Blogging and teaching others can be a powerful way to comprehend new material, fine tune your writing skills, gain exposure and potentially even make money! If you have a technical blog open to new contributors please [submit a PR](https://github.com/connor11528/coding-interviews/pulls)
 
