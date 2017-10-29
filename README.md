@@ -2,7 +2,7 @@
 
 This is a list of concepts it is important to learn in order to coding interviews at big companies and for jobs with really technical teams. Not all companies interview this way but many do or at least include CS fundamental and puzzle questions as part of their processes. Preparing for these types of interviews can be challenging and tedious. I created this repo as a collection of resources to help better understand where these questions come from. There are tons of resources out there so if you are looking to crack the coding interview, well, definitely read cracking the coding interview (links below) and review some of the sites and concepts below. I also recommend [interviewing.io](https://interviewing.io/) for doing live practice interviews to get you prepared.
 
-If you have feedback for the repo or need help in the job search hit me up: connorleech@gmail.com 
+If you have feedback for the repo or need help in the job search or on resume hit me up: connorleech@gmail.com and [twitter](https://twitter.com/connor11528)
 
 ## Data Structures
 
@@ -188,6 +188,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 - Guide to interviewing your future manager before deciding where to work: https://notes.breakoutlist.com/guide-to-interviewing-your-future-manager-before-deciding-where-to-work-3b2eb3326793
 
 ## More Questions
+
+- **500 Data Structures and Algorithms practice problems and their solutions** - https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions - these are good because they are grouped by topic such as array, BST, Dynamic Programming etc
 
 - **Project Euler** - https://projecteuler.net/archives - The classic
 
