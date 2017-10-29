@@ -38,11 +38,15 @@ This is a list of concepts I'd imagine it is important to learn in order to pass
 
 - Recursion: [JS interview prep: Recursion](https://tech.io/playgrounds/5422/js-interview-prep-recursion) (has runnable code examples)
 
-- Dynamic Programming
+- Dynamic Programming: [Dynamic Programming - Rithm School](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/dynamic-programming), [video](https://www.youtube.com/watch?v=W2ote4jCuYw)
 
 - Greedy Algorithm 
 
-- Big-O Analysis
+- Sliding Window
+
+- Divide and Conquer
+
+- Big-O Analysis (time complexity, space complexity)
 
 ## Learning Guides
 
