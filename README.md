@@ -82,11 +82,13 @@ Thanks for stopping by
 
 - **codefights** - https://codefights.com/ - Really great user interface and user experience. I like the gamification and points system they have going on.
 
-- **Pramp** - https://www.pramp.com/ref/gt7 - Real practice with *actual* engineers. Book a time and practice interviewing with real human beings
+- **Irfan Baqui: ace coding interviews** - https://www.irfanbaqui.com/coding-interview-prep/ - get one free problem to practice each week and get the solution next week
+
+- **interviewing.io** - https://interviewing.io/ - Anonymously practice coding interviews with engineers from prominent tech companies.
 
 - **Interview Cake** - https://www.interviewcake.com/ - Interview Cake is a thoroughly documented site on programming interviews and concepts. It can be expensive for the year membership but if you're serious about buckling down to learn the fundamentals can be worth it. They also offer a money-back gaurantee.
 
-- **interviewing.io** - https://interviewing.io/ - Anonymously practice coding interviews with engineers from prominent tech companies. Developed by Aline Lerner, an MIT grad and software engineer turned recruiter
+- **Pramp** - https://www.pramp.com/ref/gt7 - Real practice with *actual* engineers. Book a time and practice interviewing with real human beings
 
 - **LeetCode** - https://leetcode.com/ - Pick from an expanding library of more than 190 questions, code and submit your solution to see if you have solved it correctly.
 
