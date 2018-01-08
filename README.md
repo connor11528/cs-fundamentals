@@ -129,6 +129,16 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **JS: Interview Algorithm** - http://www.thatjsdude.com/interview/js1.html - JS: Interview Algorithms questions and solutions
 
+## PHP
+
+- **SOLID Principles in PHP** - https://laracasts.com/series/solid-principles-in-php - SOLID represents a series of guidelines that developers can use to, if done well, simplify and clarify their code.
+
+- **Object Oriented Bootcamp in PHP** - https://laracasts.com/series/object-oriented-bootcamp-in-php - covers fundamentals of OOP in PHP, including tricky concepts like difference between Interfaces and Abstract Classes
+
+## SQL
+
+- **Khan Academy SQL course** - https://www.khanacademy.org/computing/computer-programming/sql - Great course covering SQL principles. Highly recommend.
+
 ## Laravel
 
 - **Diving Laravel** - https://divinglaravel.com/ - A deep dive into laravel core, packages, and technologies by [@themsaid](https://github.com/themsaid)
@@ -137,13 +147,9 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam - A Laravel exam with questions from beginner to expert curated by [@unicodeveloper](https://github.com/unicodeveloper)
 
-## PHP
-
-- **SOLID Principles in PHP** - https://laracasts.com/series/solid-principles-in-php - SOLID represents a series of guidelines that developers can use to, if done well, simplify and clarify their code.
-
-- **Object Oriented Bootcamp in PHP** - https://laracasts.com/series/object-oriented-bootcamp-in-php - covers fundamentals of OOP in PHP, including tricky concepts like difference between Interfaces and Abstract Classes
-
 ## Git
+
+- **Git flow** - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow - a git workflow that some companies follow to manage their deployments.
 
 - **Git Game** - https://www.git-game.com/ - The git-game is a terminal based game that teaches both new and advances users some pretty cool features of the git scm (source control management) system.
 
