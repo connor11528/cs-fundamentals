@@ -72,7 +72,7 @@ create table drs_favorites (
 insert into exercise_logs(type, minutes, calories, heart_rate) values ('biking', 30, 100, 110);
 insert into drs_favorites(type, reason) values ('biking', 'improves endurance and flexibility.');
 
-/* selects all activities that the user did that are recommended by doctor for cardio health */
+/* subquery - selects all activities that the user did that are recommended by doctor for cardio health */
 select * from exercise_logs where type in (select type from drs_favorites where reason like "%cardiovascular%");
 
 /* table of all types of activity and the total amount of calories burned by doing that activity */
