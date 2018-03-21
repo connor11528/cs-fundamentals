@@ -179,6 +179,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## Articles
 
+- How to write a great résumé for software engineers: https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322
+
 - Why You Don’t Deserve That Dream Developer Job: https://codeburst.io/why-you-dont-deserve-that-dream-developer-job-60d5e5adb8d7
 
 - Top 8 Mistakes to avoid in Technical Interviews According to Data: https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f
