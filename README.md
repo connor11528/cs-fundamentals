@@ -179,6 +179,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## Articles
 
+- I just got a developer job at Facebook. Here’s how I prepped for my interviews: https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
+
 - How to write a great résumé for software engineers: https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322
 
 - Why You Don’t Deserve That Dream Developer Job: https://codeburst.io/why-you-dont-deserve-that-dream-developer-job-60d5e5adb8d7
