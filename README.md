@@ -6,6 +6,16 @@ If you have feedback for the repo or are looking for help on job search (intervi
 
 Thanks for stopping by
 
+- [**The 2 types of software engineering interviews and how to prepare for them**](https://codeburst.io/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0b)
+
+## Side Projects
+
+- [Indie Hackers](https://www.indiehackers.com/)
+
+- [How to build a startup — without quitting your day job](https://www.indiehackers.com/@aytekin/how-to-build-a-startup-without-quitting-your-day-job-d9d1176709)
+
+- [How to Talk About Your Side Projects](https://medium.freecodecamp.org/how-to-talk-about-your-side-projects-18b96f192817)
+
 ## Data Structures
 
 - Array
