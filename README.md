@@ -141,6 +141,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## PHP
 
+- **30-seconds-of-php-code** - https://github.com/appzcoder/30-seconds-of-php-code - A curated collection of useful PHP snippets that you can understand in 30 seconds or less.
+
 - **SOLID Principles in PHP** - https://laracasts.com/series/solid-principles-in-php - SOLID represents a series of guidelines that developers can use to, if done well, simplify and clarify their code.
 
 - **Object Oriented Bootcamp in PHP** - https://laracasts.com/series/object-oriented-bootcamp-in-php - covers fundamentals of OOP in PHP, including tricky concepts like difference between Interfaces and Abstract Classes
