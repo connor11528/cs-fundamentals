@@ -76,6 +76,8 @@ Thanks for stopping by
 
 - :octocat: **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - One man's somewhat crazy task to become a google software engineer. 48k+ stars. I believe he ended up working at Amazon. go figure
 
+- **30 second interview questions** - https://github.com/fejes713/30-seconds-of-interviews - A list and website of common interview questions you're bound to encounter during tricky JS interviews.
+
 ## Finding companies to apply to
 
 - **https://whoishiring.io/** - Most impressive job site aggregator I've ever seen in my life. Scrapes all the boards and has a map of where every company is located.
