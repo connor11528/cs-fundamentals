@@ -20,19 +20,39 @@
 
 function steps(size){
 	
-	for(let i = 0; i < size; i++){
-		let row = '';
+	for(let row = 0; row < size; row++){
+		let step = '';
 
-		for(let j = 0; j < size; j++){
-			if(i >= j){
-				row += '#';
+		for(let column = 0; column < size; column++){
+			if(row >= column){
+				step += '#';
 			} else {
-				row += ' ';
+				step += ' ';
 			}
 			
 		}
-		console.log(row);
+		console.log(step);
 	}
 }
 
-steps(4);
+function stepsRecursive(size, row = 0, step = ''){
+	// base case
+	if(size === row){
+		return;
+	}
+
+	// move on to next row
+	if(size === step.length){
+		console.log(step);
+		return stepsRecursive(size, row + 1);
+	}
+
+	// build current row
+	step += (step.length <= row) ? '#' : ' ';
+
+	stepsRecursive(size, row, step);
+}
+
+stepsRecursive(4);
+
+
