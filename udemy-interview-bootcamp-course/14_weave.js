@@ -21,7 +21,7 @@
 //    q.remove() // 2
 //    q.remove() // 'There'
 
-const Queue = require('./queue');
+const Queue = require('./data_structures/queue');
 
 function weave(sourceOne, sourceTwo) {
 	const result = new Queue();

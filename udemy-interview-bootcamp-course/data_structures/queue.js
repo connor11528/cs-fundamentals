@@ -17,18 +17,10 @@ class Queue {
 		return this.queue.pop();
 	}
 
-
 	// View the next element to be removed from the queue
 	peek(){
 		return this.queue[this.queue.length - 1];
 	}
 }
-
-// const queue = new Queue();
-// queue.add(6);
-// queue.add(5);
-// queue.remove();
-
-// console.log(queue.peek());
 
 module.exports = Queue;
