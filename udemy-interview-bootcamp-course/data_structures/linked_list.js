@@ -90,27 +90,76 @@ class LinkedList {
     }
   }
 
-  getAt(int){
-    let node = this.head;
+  getAt(index){
+    let node = this.head, counter = 0;
 
     if(!node){
       return null;
     }
 
-    for(let i = 0; i < int; i++){
+    while(node){
+      if(counter === index){
+        return node;
+      }
+      counter++;
       node = node.next;
     }
-    return node;
+
+    // index was out of bounds
+    return null;
   }
 
+  // todo: review methods below
+  removeAt(index){
+    if(!this.head){
+      return;
+    }
+
+    if(index === 0){
+      this.head = this.head.next;
+      return;
+    }
+
+    const previous = this.getAt(index - 1);
+    if(!previous || !previous.next){
+      return;
+    }
+
+    previous.next = previous.next.next;
+
+  },
+
+  insertAt(data, index){
+    if(!this.head){
+      this.head = new Node(data);
+      return;
+    }
+
+    if(index === 0){
+      this.head = new Node(data, this.head);
+      return;
+    }
+
+    const previous = this.getAt(index - 1) || this.getLast();
+    const node = new Node(data, previous.next);
+    previous.next = node;
+  }
+
+  forEach(fn){
+    let node = this.head;
+    let counter = 0;
+
+    while(node){
+      fn(node, counter);
+      node = node.next;
+      counter++;
+    }
+  }
+
+  // ES6 Generators
+  
+
+
 }
-
-const list = new LinkedList();
-list.insertLast(1);
-list.insertLast(2);
-list.insertLast(3);
-list.insertLast(4);
-
-console.log(list.getAt(0));
 
 module.exports = { Node, LinkedList };
