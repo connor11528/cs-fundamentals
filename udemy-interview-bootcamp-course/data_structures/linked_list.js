@@ -127,7 +127,7 @@ class LinkedList {
 
     previous.next = previous.next.next;
 
-  },
+  }
 
   insertAt(data, index){
     if(!this.head){
@@ -155,10 +155,6 @@ class LinkedList {
       counter++;
     }
   }
-
-  // ES6 Generators
-  
-
 
 }
 
