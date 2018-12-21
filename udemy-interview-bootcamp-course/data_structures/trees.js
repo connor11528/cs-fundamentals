@@ -58,13 +58,13 @@ class Tree {
   }
 }
 
-const t = new Tree();
-t.root= new Node('a');
-t.root.add('b');
-t.root.add('d');
-t.root.children[0].add('c');
+// const t = new Tree();
+// t.root= new Node('a');
+// t.root.add('b');
+// t.root.add('d');
+// t.root.children[0].add('c');
 
 
-t.depthFirstTraverse();
+// t.depthFirstTraverse();
 
 module.exports = { Tree, Node };
