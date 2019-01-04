@@ -2,24 +2,29 @@
 
 This is meant to shore up computer science fundamentals for the self taught programmer.
 
+## 0. Resources
 
-## 0. Getting set up
+- Bradfield School of Computer Science [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 
-- Practical Algorithms and Data Structures from Bradfield Computer Science: https://bradfieldcs.com/algos/
-	- Read [The Big Picture](https://bradfieldcs.com/algos/analysis/introduction/)
+- Rithm School [Computer Science Fundamentals with Javascript](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
 
-- Join Exercism.io and join the track for your language of choice. In my case this means joining the [PHP](https://exercism.io/my/tracks/php) and [Javascript](https://exercism.io/my/tracks/javascript) tracks.
+- Khan Academy [Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms)
 
+- Exercism.io [Javascript track](https://exercism.io/my/tracks/javascript)
 
 ## 1. Time and space complexity: Big O Notation
 
-**Resources:**
+**Courses and Reading**
 
-- Bradfield CS: [Big O Notation](https://bradfieldcs.com/algos/analysis/big-o-notation/)
+- Read "Analysis" section of **Practical Algorithms and Data Structures**
 
-- Introduction to Big O notation from Rithm School [Computer Science Fundamentals course](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals/introduction-to-big-o-notation)
+![constant, logarithmic, linear, log linear, quadratic, cubic, exponential](https://i.imgur.com/Y8UqTmX.png)
 
-- Asymptotic notation section of [Khan Academy Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
+![graph of algo performance](https://i.imgur.com/jhsvwNF.png)
+
+- "Introduction to Big O Notation" from **Computer Science Fundamentals with Javascript**
+
+- "Asymptotic notation" section of **Algorithms course**
 
 
 ## 2. Data Structures I
