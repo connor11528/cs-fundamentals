@@ -6,11 +6,11 @@ This is meant to shore up computer science fundamentals for the self taught prog
 
 - Bradfield School of Computer Science [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
 
+- Stephen Grider's [Coding Interview Bootcamp on Udemy](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)
+
 - Rithm School [Computer Science Fundamentals with Javascript](https://www.rithmschool.com/courses/javascript-computer-science-fundamentals)
 
 - Khan Academy [Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms)
-
-- Exercism.io [Javascript track](https://exercism.io/my/tracks/javascript)
 
 ## 1. Time and space complexity: Big O Notation
 
@@ -22,16 +22,33 @@ This is meant to shore up computer science fundamentals for the self taught prog
 
 ![graph of algo performance](https://i.imgur.com/jhsvwNF.png)
 
-- "Introduction to Big O Notation" from **Computer Science Fundamentals with Javascript**
+- Review time complexity of [anagram solutions](01-big-o/anagrams.js)
 
-- "Asymptotic notation" section of **Algorithms course**
+- (todo) Complete "Introduction to Big O Notation" from **Computer Science Fundamentals with Javascript**
+
+- (todo) Complete "Asymptotic notation" section of **Algorithms course**
 
 
 ## 2. Data Structures I
 
 ### Stacks
 
-- Bradfield CS: [Stacks](https://bradfieldcs.com/algos/stacks/introduction/)
+- "Stack 'Em Up With Stacks" section of **Udemy course** ([stack solution](../udemy-interview-bootcamp-course/data_structures/stack.js))
+
+- Read "Stacks" section of **Practical Algorithms and Data Structures**
+
+```
+Abstract Data Type of a Stack:
+
+- Stack() creates a new, empty stack
+- push(item) adds the given item to the top of the stack and returns nothing
+- pop() removes and returns the top item from the stack
+- peek() returns the top item from the stack but doesn’t remove it (the stack isn’t modified)
+- is_empty() returns a boolean representing whether the stack is empty
+- size() returns the number of items on the stack as an integer
+```
+
+
 
 ### Queues
 
