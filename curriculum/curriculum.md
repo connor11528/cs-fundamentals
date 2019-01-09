@@ -48,11 +48,33 @@ Abstract Data Type of a Stack:
 - size() returns the number of items on the stack as an integer
 ```
 
-
+- Review [balancedPairings](02-stacks/balancedPairings.js) and [convertToBinary](02-stacks/convertToBinary.js).
 
 ### Queues
 
-- Bradfield CS: [Queues](https://bradfieldcs.com/algos/queues/introduction/)
+- Read "Queues" section of **Practical Algorithms and Data Structures**
+
+```
+Abstract Data Type of a Queue:
+
+- Queue() creates a new queue that is empty. It needs no parameters and returns an empty queue.
+- enqueue(item) adds a new item to the rear of the queue. It needs the item and returns nothing.
+- dequeue() removes the front item from the queue. It needs no parameters and returns the item. The queue is modified.
+- is_empty() tests to see whether the queue is empty. It needs no parameters and returns a boolean value.
+- size() returns the number of items in the queue. It needs no parameters and returns an integer.
+```
+
+### Deques
+
+- Read "Deques" section of **Practical Algorithms and Data Structures**
+
+> New items can be added at either the front or the rear. Likewise, existing items can be removed from either end. In a sense, this hybrid linear structure provides all the capabilities of stacks and queues in a single data structure.
+
+![](https://bradfieldcs.com/algos/deques/introduction/figures/basic-deque.png)
+
+
+
+
 
 ### Lists
 
