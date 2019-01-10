@@ -28,12 +28,11 @@ This is meant to shore up computer science fundamentals for the self taught prog
 
 - (todo) Complete "Asymptotic notation" section of **Algorithms course**
 
-
 ## 2. Data Structures I
 
 ### Stacks
 
-- "Stack 'Em Up With Stacks" section of **Udemy course** ([stack solution](../udemy-interview-bootcamp-course/data_structures/stack.js))
+- "Stack 'Em Up With Stacks" section of **Udemy course** ([stack implementation](../udemy-interview-bootcamp-course/data_structures/stack.js))
 
 - Read "Stacks" section of **Practical Algorithms and Data Structures**
 
@@ -54,6 +53,8 @@ Abstract Data Type of a Stack:
 
 - Read "Queues" section of **Practical Algorithms and Data Structures**
 
+- "The Queue" and "Underwater Queue Weaving" section of **Udemy course** ([queue implementation](../udemy-interview-bootcamp-course/data_structures/queue.js))
+
 ```
 Abstract Data Type of a Queue:
 
@@ -64,6 +65,8 @@ Abstract Data Type of a Queue:
 - size() returns the number of items in the queue. It needs no parameters and returns an integer.
 ```
 
+- Review [hot potato](03-queues/hotPotato.js)
+
 ### Deques
 
 - Read "Deques" section of **Practical Algorithms and Data Structures**
@@ -72,14 +75,21 @@ Abstract Data Type of a Queue:
 
 ![](https://bradfieldcs.com/algos/deques/introduction/figures/basic-deque.png)
 
-
-
-
+- Review [palindrome checker](04-deques/palindrome.js)
 
 ### Lists
 
-- Bradfield CS: [Lists](https://bradfieldcs.com/algos/lists/introduction/)
+- Read "Lists" section of **Practical Algorithms and Data Structures**
 
+> When discussing the list abstract data type, we consider a list to be a collection of items where each item holds a relative position with respect to the others.
+
+> The members of a list are commonly refered to as nodes. When each node holds a reference to the next node in the list, we call this a **singly linked list**. When each node holds a reference to both the next and previous nodes in the list, we call this a **doubly linked list**.
+
+> **Linked list traversal** refers to the process of systematically visiting each node in a linked list.
+
+- "Linked List" section of **Udemy course** ([linked list implementation](../udemy-interview-bootcamp-course/data_structures/linked_list.js))
+
+- Review [midpoint](../udemy-interview-bootcamp-course/16_midpoint.js) from **Udemy course**
 
 ## 3. Recursion
 
