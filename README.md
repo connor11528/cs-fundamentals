@@ -1,11 +1,5 @@
 # Coding Interviews
 
-This is a list of concepts it is important to learn in order to coding interviews at big companies and for jobs with really technical teams. Not all companies interview this way but many do or at least include CS fundamental and puzzle questions as part of their processes. Preparing for these types of interviews can be challenging and tedious. I created this repo as a collection of resources to help better understand where these questions come from. There are tons of resources out there so if you are looking to crack the coding interview, well, definitely read cracking the coding interview (links below) and review some of the sites and concepts below. I also recommend [interviewing.io](https://interviewing.io/) for doing live practice interviews to get you prepared.
-
-If you have feedback for the repo or are looking for help on job search (interview prep, resume review etc) shoot me an email: connorleech@gmail.com or [tweet connor11528](https://twitter.com/connor11528)
-
-Thanks for stopping by
-
 - [**The 2 types of software engineering interviews and how to prepare for them**](https://codeburst.io/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0b)
 
 ## Side Projects
