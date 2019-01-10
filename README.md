@@ -225,6 +225,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 ## More Questions
 
+- **50 Coding Interview Questions** - https://www.byte-by-byte.com/wp-content/uploads/2019/01/50-Coding-Interview-Questions.pdf - "In this guide, I’ve organized all of the interview questions we’ve ever covered on Byte by Byte into a convenient PDF for you to reference whenever you like. Over the years, I’ve been careful to select only problems that are directly relevant to your interviews. This guide combines them all in one place and is completely free for you to download."
+
 - **500 Data Structures and Algorithms practice problems and their solutions** - https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions - these are good because they are grouped by topic such as array, BST, Dynamic Programming etc
 
 - **Project Euler** - https://projecteuler.net/archives - The classic

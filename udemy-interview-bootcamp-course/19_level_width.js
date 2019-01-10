@@ -18,7 +18,7 @@ function levelWidth(root) {
   let rowCount  = 0;
   let queue     = [root, 'STOP'];
 
-  while(queue.length){
+  while(queue.length > 1){
     
     let first = queue.shift();
 
@@ -26,7 +26,7 @@ function levelWidth(root) {
       counters.push(rowCount);
       rowCount = 0;
 
-      if(queue.length){
+      if(queue.length > 1){
         queue.push('STOP');
       }
       
