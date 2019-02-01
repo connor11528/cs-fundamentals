@@ -58,7 +58,7 @@ select title from songs where released > 1990 and mood = 'epic' and duration < 2
 /* Exercise logs */
 
 create table exercise_logs (
-	id integer primary key autoincrement, 
+	id integer primary key auto_increment, 
 	type, text, minutes integer, 
 	calories integer, 
 	heart_rate integer
