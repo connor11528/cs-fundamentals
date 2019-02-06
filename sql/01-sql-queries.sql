@@ -198,7 +198,29 @@ INSERT INTO marvels VALUES(12, "Rogue", 4, "Good", "Female", 1.73, 54.43, "USA",
 select name, min(popularity) from marvels;
 select name, max(popularity) from marvels;
 
+/* insert a new row*/
+INTO marvels VALUES(13, "R1", 82, "Bad", "Female", 1.73, 54.43, "USA", 7, 7, 7, 7, 7, 7);
+				      
+/* On the basis of popularity add new column named 'public_review' */
+select name, popularity,
+case
+when popularity<10 then 'highly popular'
+when popularity>=10 and popularity<=80 then 'moderately popular'
+when popularity > 80 and popularity<=90 then 'not so well known'
+else 'Hmm..hv to google'
+end as 'public_choice'
+from marvels order by popularity;
 
+/* display how many no. of characters are 'highly popular','moderately popular' etc. and order this list by descending order*/
+select count(*) as no_of_char,
+case
+when popularity<10 then 'highly popular'
+when popularity>=10 and popularity<=80 then 'moderately popular'
+when popularity > 80 and popularity<=90 then 'not so well known'
+else 'Hmm..hv to google'
+end as 'public_choice'
+from marvels group by public_choice order by no_of_char DESC;			      
+				      
 
 
 
