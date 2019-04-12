@@ -22,8 +22,11 @@ const input2 = [{ startTime: 2, endTime: 4 }, { startTime: 1, endTime: 3 }]
 //[{ startTime: 1, endTime: 4 }]
 
 
+// Complexity: O(nlgn) time and O(n) space.
 function mergeRanges(meetings) {
-  
+
+
+  // sorting takes O(nlgn) time
 	const sortedMeetings = meetings.sort(function(a, b){
 		return a.startTime - b.startTime;
 	});
@@ -43,7 +46,8 @@ function mergeRanges(meetings) {
 	 	mergedMeetings.push(currentMeeting);
 	 }
 	}
-
+  
+  // in the worst case no meetings overlap so we'd take up O(n) space
 	return mergedMeetings;
 }
 
