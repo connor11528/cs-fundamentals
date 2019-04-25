@@ -8,15 +8,35 @@
 
 // Do not use division in your solution.
 
-var nums = [10, 7, 3, 4]; // [84, 12, 28, 21] 
+var nums = [1, 7, 3, 4]; // [84, 12, 28, 21] 
 var nums2 = [2, 4, 10]; //  
 
-var output = getProductsOfAllIntsExceptAtIndex(nums2);
+var output = getProductsOfAllIntsExceptAtIndex1(nums);
 console.log(output);
+
+// O(n) time and O(n) space
+function getProductsOfAllIntsExceptAtIndex1(integers){
+	const result      = [];
+	let beforeProduct = 1;
+	let afterProduct  = 1;
+
+	for(let i = 0; i < integers.length; i++){
+		result[i] = beforeProduct;
+		beforeProduct *= integers[i];
+	}
+
+	for(let j = integers.length - 1; j >= 0; j--){
+		result[j] *= afterProduct;
+		afterProduct *= integers[j];
+	}
+
+	return result;
+}
+
+
 
 function getProductsOfAllIntsExceptAtIndex(intArray){
 
-	// product of all integers before each index
 	var beforeIndexValues = [];
 
 	var accumulator = 1;
@@ -29,38 +49,13 @@ function getProductsOfAllIntsExceptAtIndex(intArray){
 	var afterIndexValues = [];
 	accumulator = 1;
 
-	// product of all integers after each index
 	for(var i = intArray.length - 1; i >= 0; i--){
 		afterIndexValues[i] = accumulator;
 		accumulator *= intArray[i];
 	}
 
-	// multiply them together
 	return beforeIndexValues.map((num, i) => {
 		return num * afterIndexValues[i];
 	});
 }
-
-
-
-// brute force approach is to walk through the array and for each element
-// walk through the array again and multiply all integers besides the given 
-// element and store that value in a new array.
-
-// function getProductsOfAllIntsExceptAtIndex(integers){
-// 	var output = [];
-
-// 	for(var i = 0; i < integers.length; i++){
-// 		var current = integers[0];
-// 		var product = 1;
-
-// 		for(var j = 0; j < integers.length; j++){
-// 			if(j !== i){
-// 				product = product * integers[j];
-// 			}
-// 		}
-// 		output.push(product);
-// 	}
-// 	return output;
-// }
 
