@@ -155,6 +155,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **Khan Academy SQL course** - https://www.khanacademy.org/computing/computer-programming/sql - Great course covering SQL principles. Highly recommend.
 
+- **Udemy MySQL Bootcamp** - https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/ - Course by ex-Galvanize instructor. beginner to expert.
+
 ## Laravel
 
 - **Diving Laravel** - https://divinglaravel.com/ - A deep dive into laravel core, packages, and technologies by [@themsaid](https://github.com/themsaid)
