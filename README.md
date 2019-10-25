@@ -58,6 +58,8 @@
 
 ## Learning Guides
 
+- **Pathrise** - https://www.pathrise.com/guides/tags/swe/ - Compiled list of guides to help you find a software engineering job.
+
 - **HackerRank Interview Prep Kit** - https://www.hackerrank.com/interview/interview-preparation-kit - Curated list of exercises from the HackerRank team organized around key concepts you'll need to know.
 
 - **Rithm School Computer Science Fundamentals with JavaScript** - https://www.rithmschool.com/courses/javascript-computer-science-fundamentals - I've been following along with some of this as I don't have a comp sci degree. They explain the concepts and then point you to additional resources for learning the material (like youtub videos and specific codewars problems) Very helpful.
