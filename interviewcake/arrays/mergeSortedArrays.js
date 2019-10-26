@@ -1,3 +1,7 @@
+// Your task is to create a function mergeArrays which take 2 sorted arrays as arguments
+// and returns a single array containing all elements from previous 2 arrays including
+// repeated elements arranged in a sorted order
+
 const myArray = [3, 4, 6, 10, 11, 12, 15, 22];
 const alicesArray = [1, 5, 8, 12, 12, 14, 19];
 
