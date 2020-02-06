@@ -58,6 +58,8 @@
 
 ## Learning Guides
 
+- [Grokking Algorithms](https://livebook.manning.com/book/grokking-algorithms/) - Free book designed to be easy to follow explaining common computer science algorithms.
+
 - **Pathrise** - https://www.pathrise.com/guides/tags/swe/ - Compiled list of guides to help you find a software engineering job.
 
 - **HackerRank Interview Prep Kit** - https://www.hackerrank.com/interview/interview-preparation-kit - Curated list of exercises from the HackerRank team organized around key concepts you'll need to know.
