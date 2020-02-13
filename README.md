@@ -68,7 +68,7 @@
 
 - **Coderbyte** - https://coderbyte.com/challenges/?a=true - Lots of programming challenges, access 10 for free otherwise $30 per month
 
-- :octocat: **yangshun/tech-interview-handbook** - 4k+ ⭐ repo with helpful non-technical tips. Additionally has section covering Algorithm, Front End and System Design questions
+- :octocat: **yangshun/tech-interview-handbook** - https://github.com/yangshun/tech-interview-handbook 4k+ ⭐ repo with helpful non-technical tips. Additionally has section covering Algorithm, Front End and System Design questions
 
 - :octocat: **mr-mig/every-programmer-should-know** - https://github.com/mr-mig/every-programmer-should-know - Don't let the title scare you. This repo covers at a high level things ranging from *Career Tips* to *Data Structures*, *Security*, *Architecture* and *Algorithms*. It's a lot but can be helpful to overview concepts and find new things to learn
 
