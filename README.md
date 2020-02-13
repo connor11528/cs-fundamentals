@@ -54,7 +54,7 @@
 
 - Divide and Conquer
 
-- Big-O Analysis (time complexity, space complexity)
+- Big-O Analysis (time complexity, space complexity): [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation), [video](https://www.youtube.com/watch?v=D6xkbGLQesk), [MIT](http://web.mit.edu/16.070/www/lecture/big_o.pdf)
 
 ## Learning Guides
 
