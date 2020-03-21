@@ -78,6 +78,8 @@
 
 ## Finding companies to apply to
 
+- **https://employbl.com/companies** - Employbl is a directory of tech companies and startups in the Bay Area. Find companies by type or location, upload your resume and find a company right for you :)
+
 - **https://whoishiring.io/** - Most impressive job site aggregator I've ever seen in my life. Scrapes all the boards and has a map of where every company is located.
 
 - **https://huntr.co/** - Tool for keeping your applications and search organized on a Trello-style board. they also have a chrome extension for quickly adding jobs from various sources.
