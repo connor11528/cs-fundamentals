@@ -1,6 +1,6 @@
 # Coding Interviews
 
-- [**The 2 types of software engineering interviews and how to prepare for them**](https://codeburst.io/the-2-types-of-software-engineering-interviews-and-how-to-prepare-for-them-2e7bd4daa0b)
+- [**The 2 types of software engineering interviews and how to prepare for them**](https://employbl.com/blog/2-types-of-software-engineer-interviews)
 
 ## Side Projects
 
