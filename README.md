@@ -171,6 +171,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - :octocat: **unicodeveloper/laravel-exam** - https://github.com/unicodeveloper/laravel-exam - A Laravel exam with questions from beginner to expert curated by [@unicodeveloper](https://github.com/unicodeveloper)
 
+- **Interview Questions and Quiz** - https://www.adaface.com/blog/laravel-interview-questions/ - 150+ Essential Laravel interview questions and quiz with answers (2020)
+
 ## Git
 
 - **Git flow** - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow - a git workflow that some companies follow to manage their deployments.
