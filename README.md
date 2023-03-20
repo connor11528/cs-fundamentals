@@ -127,6 +127,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **Outco.io** - https://outco.io/ - 1 month interview prep bootcamp in San Francisco
 
+- **Meetapro** - https://meetapro.com/utm_source=gitcsfundamentals - an Airbnb-style mock interview platform. Mock interviews with top FAANG engineers.
+
 ## Javascript
 
 - :octocat: **amilajack/js-algorithms** - https://github.com/amilajack/js-algorithms - A collection of algorithms written in javascript
