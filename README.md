@@ -90,6 +90,8 @@
 
 - :octocat: **https://github.com/connor11528/sf-companies** - shameless plug here. I've got another repo going with companies located in downtown San Francisco. The data is available as a CSV file and includes company addresses.
 
+- **https://okjob.io/** - A job aggregator specializing in 4-day week positions (4x8hrs), featuring a handpicked list of 120 companies actively hiring for 4-day workweeks.
+
 ## Services
 
 - **Interview Cake** - https://www.interviewcake.com/ - Interview Cake is a thoroughly documented site on programming interviews and concepts. It can be expensive for the year membership but if you're serious about buckling down to learn the fundamentals can be worth it. They also offer a money-back gaurantee.
