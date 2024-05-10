@@ -129,6 +129,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **Meetapro** - https://meetapro.com/utm_source=gitcsfundamentals - an Airbnb-style mock interview platform. Mock interviews with top FAANG engineers.
 
+- **Codemia** - https://codemia.io/utm_source=gitcsfundamentals - A platform for practicing system design problems like the way you practice algorithms and data structure on Leetcode.
+
 ## Javascript
 
 - :octocat: **amilajack/js-algorithms** - https://github.com/amilajack/js-algorithms - A collection of algorithms written in javascript
