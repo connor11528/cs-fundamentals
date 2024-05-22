@@ -64,23 +64,25 @@
 
 - **HackerRank Interview Prep Kit** - https://www.hackerrank.com/interview/interview-preparation-kit - Curated list of exercises from the HackerRank team organized around key concepts you'll need to know.
 
-- **Rithm School Computer Science Fundamentals with JavaScript** - https://www.rithmschool.com/courses/javascript-computer-science-fundamentals - I've been following along with some of this as I don't have a comp sci degree. They explain the concepts and then point you to additional resources for learning the material (like youtub videos and specific codewars problems) Very helpful.
+- **Rithm School Computer Science Fundamentals with JavaScript** - https://www.rithmschool.com/courses/javascript-computer-science-fundamentals - I've been following along with some of this as I don't have a comp sci degree. They explain the concepts and then point you to additional resources for learning the material (like youtube videos and specific code wars problems) Very helpful.
 
 - **Coderbyte** - https://coderbyte.com/challenges/?a=true - Lots of programming challenges, access 10 for free otherwise $30 per month
 
-- :octocat: **yangshun/tech-interview-handbook** - https://github.com/yangshun/tech-interview-handbook 4k+ ⭐ repo with helpful non-technical tips. Additionally has section covering Algorithm, Front End and System Design questions
+- :octocat: **yangshun/tech-interview-handbook** - https://github.com/yangshun/tech-interview-handbook 4k+ ⭐ repo with helpful non-technical tips. Additionally has a section covering Algorithm, Front End, and System Design questions
 
-- :octocat: **mr-mig/every-programmer-should-know** - https://github.com/mr-mig/every-programmer-should-know - Don't let the title scare you. This repo covers at a high level things ranging from *Career Tips* to *Data Structures*, *Security*, *Architecture* and *Algorithms*. It's a lot but can be helpful to overview concepts and find new things to learn
+- :octocat: **mr-mig/every-programmer-should-know** - https://github.com/mr-mig/every-programmer-should-know - Don't let the title scare you. This repo covers at a high-level things ranging from *Career Tips* to *Data Structures*, *Security*, *Architecture* and *Algorithms*. It's a lot but can be helpful to overview concepts and find new things to learn
 
-- :octocat: **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - One man's somewhat crazy task to become a google software engineer. 48k+ stars. I believe he ended up working at Amazon. go figure
+- :octocat: **jwasham/google-interview-university** - https://github.com/jwasham/google-interview-university#final-review - One man's somewhat crazy task to become a Google software engineer. 48k+ stars. I believe he ended up working at Amazon. go figure
 
 - **30 second interview questions** - https://github.com/fejes713/30-seconds-of-interviews - A list and website of common interview questions you're bound to encounter during tricky JS interviews.
 
+- [Scaler](https://www.scaler.com/blog/) - A tech platform consisting of career-focused insights and detailed roadmap articles, designed to guide the professional journey and enhance the skills.
+
 ## Finding companies to apply to
 
-- **https://employbl.com/companies** - Employbl is a directory of tech companies and startups in the Bay Area. Find companies by type or location, upload your resume and find a company right for you :)
+- **https://employbl.com/companies** - Employbl is a directory of tech companies and startups in the Bay Area. Find companies by type or location, upload your resume, and find a company right for you :)
 
-- **https://whoishiring.io/** - Most impressive job site aggregator I've ever seen in my life. Scrapes all the boards and has a map of where every company is located.
+- **https://whoishiring.io/** - The most impressive job site aggregator I've ever seen in my life. Scrapes all the boards and has a map of where every company is located.
 
 - **https://huntr.co/** - Tool for keeping your applications and search organized on a Trello-style board. they also have a chrome extension for quickly adding jobs from various sources.
 
@@ -125,7 +127,7 @@ to potential employers. Score well on one of our public tests, and you will get 
 
 - **CodeEval** - https://www.codeeval.com/ - Find out how you rate against top coders. Unlock awesome startup jobs and hacker deals.
 
-- **Outco.io** - https://outco.io/ - 1 month interview prep bootcamp in San Francisco
+- **Outco.io** - https://outco.io/ - 1-month interview prep boot camp in San Francisco
 
 - **Meetapro** - https://meetapro.com/utm_source=gitcsfundamentals - an Airbnb-style mock interview platform. Mock interviews with top FAANG engineers.
 
@@ -245,7 +247,7 @@ to potential employers. Score well on one of our public tests, and you will get 
  
 ## Technical blogs 💸
 
-This is tangentially related to interviews. Below is a list of companies that feature blog posts from guest authors. Blogging and teaching others can be a powerful way to comprehend new material, fine tune your writing skills, gain exposure and potentially even make money! If you have a technical blog open to new contributors please [submit a PR](https://github.com/connor11528/coding-interviews/pulls)
+This is tangentially related to interviews. Below is a list of companies that feature blog posts from guest authors. Blogging and teaching others can be a powerful way to comprehend new material, fine-tune your writing skills, gain exposure and potentially even make money! If you have a technical blog open to new contributors please [submit a PR](https://github.com/connor11528/coding-interviews/pulls)
 
 - [Scotch.io](https://scotch.io/write-for-us) - this has been my go to source for web development tutorials for years. Code on the rocks
 
