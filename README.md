@@ -188,6 +188,8 @@ to potential employers. Score well on one of our public tests, and you will get 
 ## Python
 
 - Algosaurus: http://algosaur.us/data-structures-basics/
+- Programiz PRO: https://programiz.pro/learn/master-dsa-with-python - offers a complete roadmap of DSA using Python
+
 
 ## Ruby
 
